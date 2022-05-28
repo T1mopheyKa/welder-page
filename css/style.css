@@ -32,7 +32,7 @@ html {
 }
 
 body {
-    min-width: 1340px;
+    min-width: 1440px;
     font-family: 'Source Sans Pro', sans-serif;
     min-height: 100%;
     font-weight: 400;
@@ -55,7 +55,7 @@ body {
 }
 
 .container {
-    max-width: 1000px;
+    max-width: 1300px;
     margin: 0 auto;
 }
 
