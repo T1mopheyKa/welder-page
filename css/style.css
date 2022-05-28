@@ -43,7 +43,6 @@ body {
     color: var(--basic-black);
     opacity: 0;
     animation: ani .5s forwards;
-    color: pink;
 }
 
 @keyframes ani {
