@@ -32,7 +32,7 @@ html {
 }
 
 body {
-    min-width: 1440px;
+    min-width: 1340px;
     font-family: 'Source Sans Pro', sans-serif;
     min-height: 100%;
     font-weight: 400;
@@ -43,6 +43,7 @@ body {
     color: var(--basic-black);
     opacity: 0;
     animation: ani .5s forwards;
+    color: pink;
 }
 
 @keyframes ani {
@@ -55,7 +56,7 @@ body {
 }
 
 .container {
-    max-width: 1200px;
+    max-width: 1000px;
     margin: 0 auto;
 }
 
