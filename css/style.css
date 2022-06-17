@@ -210,6 +210,7 @@ body {
 }
 
 .programm h2 {
+    padding-left: 20px;
     margin-bottom: 1rem;
     font-weight: 600;
     font-size: 2rem;
