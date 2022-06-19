@@ -596,3 +596,7 @@ textarea::placeholder {
 .idea-style {
     color: var(--hover-key);
 }
+
+.google-maps {
+margin-bottom: 2rem;
+}
